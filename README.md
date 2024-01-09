@@ -1,4 +1,4 @@
 # Vishnu_Demo
 This is my first repository.
 <br>
-Author - Vishnu Hariharan
+Author - Vishnu Garigaran
